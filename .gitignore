@@ -1,0 +1,10 @@
+__pycache__
+catboost_info
+
+.DS_Store
+.idea
+.ipynb_checkpoints
+
+venv
+
+.env
